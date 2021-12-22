@@ -1,0 +1,177 @@
+body{
+    padding: 0px 20px;
+    margin: 0px;
+   
+}
+header{
+    background-color: rgba(119, 4, 4, 0.671);
+    display: flex;
+    justify-content: space-between;
+
+}
+header ul{
+    display: flex;
+
+    list-style: none;
+}
+header ul li{
+    margin-right: 35px;
+}
+nav{
+    background-color: rgb(214, 191, 175);
+    height: 605px;
+    margin: 0px;
+}
+#mi{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    
+    position:relative;
+    top:-43px;
+    margin-left: 37%;
+    font-size: 2vw;
+}
+h2{
+    color:rgba(119, 4, 4, 0.671);
+    font-size: 30px;
+    margin-right: 10px;
+    
+}
+#mili{
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgb(46, 40, 40);
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    margin-left: 46%;
+    margin-top: 60px;
+    background-color: goldenrod;
+    padding: 10px;
+    border-radius: 30px;
+}
+.enjoy{
+    font-size: 30px;
+    color:honeydew;
+    position: relative;
+    left: 25%;
+    top: 23%;
+}
+li:hover{
+    background-color: goldenrod;
+    border-radius: 20px;
+    padding: 3%;
+}
+#gj{
+    position: relative;
+    right: 35px;
+}
+#budy{
+    font-size: 8vm;
+    padding-left: 5px;
+
+}
+#black-cofe,#late,#hot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+        
+}
+.black,.cofe_late,.coffehot,.coffe-nitro{
+    font-size: 15px;
+    padding-top: 10px;
+    border:2px solid;
+    background-color: rgb(238, 206, 124);
+    padding: 20px 0px;
+    border-radius: 15px;
+}
+.espreso{
+    font-size: 15px;
+    padding-top: 10px;
+    border:2px solid;
+    background-color:rgb(238, 206, 124);
+    
+    border-radius: 15px;
+}
+#cofe,#nitro{
+    display: flex;
+    flex-wrap:wrap-reverse;
+    justify-content: space-around;
+}
+/*.coffe-nitro{
+    width: 50%;
+}*/
+.black:hover,.cofe_late:hover,.coffehot:hover,.coffe-nitro:hover,.espreso:hover{
+    box-shadow: 5px 5px rgb(214, 102, 10);
+    color:rgb(119, 4, 4);
+}
+.see{
+    margin-left: 15%;
+    font-size: 6vw;
+}
+#video{
+    border: 5px slateblue solid;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    
+}
+iframe{
+align-content: center;
+width: 80%;
+}
+#habiba{
+background-color: rgb(214, 191, 175);;
+}
+#foter{
+background-color:rgba(119, 4, 4, 0.671); 
+display: flex;
+    justify-content: center;
+
+}
+#habiba{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#mama{
+    margin-left:5%;
+    margin-top: 1%;
+
+}
+#baba{
+    margin-left: 20%;
+}
+#first,#last,#amail{
+    font-size: 90%;
+}
+#amail{
+    margin-top: 10px;
+    margin-left: 6%;
+}
+.lien,#follow{
+    margin-top: 2%;
+}
+textarea{
+    margin-top: 3%;
+}
+#gima{
+    background-color: gray;
+    border-radius: 20px;
+    width: 50%;
+}
+#favorite{
+    background-color: gray;
+    border-radius: 20px;
+    
+}
+#first{
+    margin-bottom: 3%;
+}
+.dd{
+    color:black;
+}
